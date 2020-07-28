@@ -3,11 +3,11 @@ module.exports = {
     title: `Basuki Malik Widodo Sharea Business Coach`,
     description: `I am a Sharea Business Coach. Always hungry to keep learning.`,
     author: `BASUKIW.ID`,
-<<<<<<< HEAD
-    siteUrl: `https://github.com/wangonya/flexible-gatsby`,
-=======
+//<<<<<<< HEAD
+//    siteUrl: `https://github.com/wangonya/flexible-gatsby`,
+//=======
     siteUrl: `https://github.com/syukrie77/basukiwid`,
->>>>>>> 989e4af41b470b0cfe543b42cd0328fb17f585a3
+//>>>>>>> 989e4af41b470b0cfe543b42cd0328fb17f585a3
     social: {
       twitter: `basuki.widodo.73157`,
       facebook: `basuki.widodo.73157`,
