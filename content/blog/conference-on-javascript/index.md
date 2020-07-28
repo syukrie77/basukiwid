@@ -1,5 +1,5 @@
 ---
-title: Conference on Javascript
+title: Conference on Business Sucess  
 date: 2017-09-10 00:00:00 +0300
 description: # Add post description (optional)
 img: ./js-1.png # Add image post (optional)

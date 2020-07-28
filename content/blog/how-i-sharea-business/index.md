@@ -1,5 +1,5 @@
 ---
-title: How I Rest From Work
+title: How a Sharea Business 
 date: 2019-09-12
 description: # Add post description (optional)
 img: ./i-rest.jpg # Add image post (optional)

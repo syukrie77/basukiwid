@@ -1,5 +1,5 @@
 ---
-title: How To Start Programming
+title: How To Start Your Business 
 date: 2017-09-12 00:00:00 +0300
 description: # Add post description (optional)
 img: ./how-to-start.jpg # Add image post (optional)
