@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Flexible Gatsby`,
-    description: `I am a web developer focusing on front-end development. Always hungry to keep learning.`,
-    author: `David Freeman`,
-    siteUrl: `https://github.com/wangonya/flexible-gatsby`,
+    title: `Basuki Malik Widodo Sharea Business Coach`,
+    description: `I am a Sharea Business Coach. Always hungry to keep learning.`,
+    author: `BASUKIW.ID`,
+    siteUrl: `https://github.com/syukrie77/basukiwid`,
     social: {
       twitter: `wang0nya`,
       facebook: ``,
